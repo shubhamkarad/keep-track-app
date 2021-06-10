@@ -1,0 +1,9 @@
+.form-group{
+    margin:10px 0px;
+}
+label{
+    margin: 5px auto;
+}
+input[type=submit]{
+    margin: 20px auto;
+}
